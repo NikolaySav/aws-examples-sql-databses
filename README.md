@@ -111,4 +111,3 @@ Amazon Timestream is a time-series database designed for storing and analyzing t
 AWS offers a wide variety of SQL-compatible databases tailored to different workloads. Understanding the trade-offs between manageability, scalability, cost, and performance is crucial when choosing the right service. Whether you're building a simple web app, a complex analytics pipeline, or an IoT solution, there's a matching AWS SQL database to fit your needs.
 
 ---
-```
